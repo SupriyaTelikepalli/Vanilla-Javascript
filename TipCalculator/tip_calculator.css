@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(199, 146, 155);
+    
+}
+.boxy {
+    background-color: rgb(173, 166, 166);
+    height: 500px;
+    width: 400px;
+    border-radius: 5%;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+.boxcontent{
+    padding-top: 5px;
+    font-family: 'Gothic';
+    text-align: center;
+}
+
+#header{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    padding-top:10px;
+    height: 30px;
+    font-family: 'Lucida Console';
+    font-size: 15px;
+    border-radius: 5px;
+}
+button{
+    height: 30px;
+    background-color: rgb(170, 70, 70);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#output{
+    position: relative;
+    top:20px;
+}
